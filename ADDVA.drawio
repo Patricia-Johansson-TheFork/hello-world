@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T08:52:20.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="JB550H8mDolqubnsU0Rc" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-05T09:02:13.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="JCyu4bTVbXA9CTbqjkFd" version="14.6.3" type="github">
   <diagram id="GfKdRmke4v0SAFQHlAhv" name="Page-1">
     <mxGraphModel dx="2963" dy="2084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="naO37HkTTUc2woJMG1Gb-41" value="&lt;h1&gt;Templates &amp;amp; VS&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;Virtual sessions are set for the individual templates in the ERB.&lt;/li&gt;&lt;li&gt;In the example on the left we would have a basic plan, a Wednesday plan, Thursday plan, Friday plan, as well as a closed Monday plan.&lt;/li&gt;&lt;li&gt;The availability plans in the system will dictate which times we cn set for the VS&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="naO37HkTTUc2woJMG1Gb-41" value="&lt;h1&gt;Templates &amp;amp; VS&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;Virtual sessions are set for the individual templates in the ERB.&lt;/li&gt;&lt;li&gt;In the example on the left we would have a basic plan, a Wednesday plan, Thursday plan, Friday plan, as well as a closed Monday plan.&lt;/li&gt;&lt;li&gt;The availability plans in the system will dictate which times we can set for the VS&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="690" y="-340" width="220" height="260" as="geometry" />
         </mxCell>
         <mxCell id="naO37HkTTUc2woJMG1Gb-44" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=1;strokeColor=#67AB9F;" parent="1" vertex="1">
